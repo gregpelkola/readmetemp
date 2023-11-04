@@ -36,12 +36,12 @@ const questions = [
       {
         type: "input",
         name: "creator",
-        message: "Write your GitHub username.",
+        message: "Enter your GitHub username.",
       },
       {
         type: "input",
         name: "email",
-        message: "Provide a valid email address.",
+        message: "Enter a valid email address.",
       },
       {
         type: "input",
