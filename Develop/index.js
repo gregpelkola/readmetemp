@@ -54,6 +54,11 @@ const questions = [
         name: "test",
         message: "Enter any tests for your Project",
       },
+      {
+        type: "input",
+        name: "installation",
+        message: "Enter any installation instrcutions for your Project.",
+      },
     ];
        
     
